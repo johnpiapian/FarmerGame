@@ -1,0 +1,7 @@
+C:\Users\JohnPiaPian\Code\vs\FarmerGame\bin\Debug\FarmerGame.exe.config
+C:\Users\JohnPiaPian\Code\vs\FarmerGame\bin\Debug\FarmerGame.exe
+C:\Users\JohnPiaPian\Code\vs\FarmerGame\bin\Debug\FarmerGame.pdb
+C:\Users\JohnPiaPian\Code\vs\FarmerGame\obj\Debug\FarmerGame.csprojAssemblyReference.cache
+C:\Users\JohnPiaPian\Code\vs\FarmerGame\obj\Debug\FarmerGame.csproj.CoreCompileInputs.cache
+C:\Users\JohnPiaPian\Code\vs\FarmerGame\obj\Debug\FarmerGame.exe
+C:\Users\JohnPiaPian\Code\vs\FarmerGame\obj\Debug\FarmerGame.pdb
